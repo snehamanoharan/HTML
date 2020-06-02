@@ -1,0 +1,42 @@
+#### HTML PROGRAM ####
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>IMAGE PORTFOLIO</title>
+	<link rel="stylesheet" type="text/css" href="port.css">
+     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<h1>b/w aesthetic photos</h1>
+<img src="http://c2.staticflickr.com/6/5588/14991687545_5c8e1a2e86_b.jpg">
+<img src="http://c2.staticflickr.com/8/7579/15482110477_0b0e9e5421_b.jpg">
+<img src="http://c1.staticflickr.com/9/8450/8026519634_f33f3724ea_b.jpg">
+<img src="http://c2.staticflickr.com/4/3888/14878097108_5997041006_b.jpg">
+<img src="http://c2.staticflickr.com/8/7218/7209301894_c99d3a33c2_h.jpg">
+<img src="http://c2.staticflickr.com/8/7231/6947093326_df216540ff_b.jpg">
+<img src="http://c2.staticflickr.com/8/7231/6947093326_df216540ff_b.jpg">
+<img src="http://c2.staticflickr.com/6/5814/20700286354_762c19bd3b_b.jpg">
+<img src="http://c2.staticflickr.com/6/5647/21137202535_404bf25729_b.jpg">
+
+</body>
+</html>
+
+#### CSS PROGRAM ####
+
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+h1{
+	 font-family: 'Montserrat', sans-serif;
+	 margin-left: 1.66%;
+	 font-size: 23px;
+	 font-weight: 800;
+	 text-transform: uppercase;
+	 border-bottom: 2px solid #000102;
+	 width: 30%;
+	 padding-bottom: 20px;
+	 }
