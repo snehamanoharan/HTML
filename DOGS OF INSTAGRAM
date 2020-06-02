@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Dogs of Instagram</title>
+</head>
+<body>
+	<h1>Tucker Buzdyn</h1>
+	<p>Hi, I'm a dog  Woof!</p>
+  <img  width=250 src="tucker.jpeg"> 
+  <h3>Some of my favourite places are:</h3>
+	    <ul>
+	    	<li>The beach</li>
+	    	<li>The dog park</li>
+	    	<li> The fire hydrant</li>
+	    </ul>	
+
+  <p>Make sure to follow me on <a href="https://www.instagram.com/tuckerbudzyn/?hl=en"> instagram </a></p>
+
+</body>
+</html>
